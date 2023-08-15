@@ -10,13 +10,19 @@ class RegistrationActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_registration)
 
-        val login : Button = findViewById(R.id.login)
+        val login: Button = findViewById(R.id.Login)
+        val register: Button = findViewById(R.id.register)
 
-        login.setOnClickListener(){
-            Intent(this@RegistrationActivity,LoginActivity::class.java).
-            also{startActivity(it)
+        login.setOnClickListener() {
+            Intent(this@RegistrationActivity, LoginActivity::class.java).also {
+                startActivity(it)
             }
+        }
 
+        register.setOnClickListener() {
+            Intent(this@RegistrationActivity, RegistrationSuccessActivity::class.java).also {
+                startActivity(it)
+            }
         }
     }
 }

@@ -51,8 +51,7 @@
                 android:inputType="textEmailAddress"
                 app:layout_constraintBaseline_toBaselineOf="@+id/Emailid"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="@+id/Emailid"
-                tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+                app:layout_constraintStart_toStartOf="@+id/Emailid" />
 
             <TextView
                 android:id="@+id/Password"
