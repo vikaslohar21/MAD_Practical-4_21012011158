@@ -4,4 +4,4 @@
 
 ![image](https://github.com/vikaslohar21/MAD_Practical-4_21012011158/assets/98016883/1b845191-a169-443c-9773-43290a46cf19)
 
-![image](https://github.com/vikaslohar21/MAD_Practical-4_21012011158/assets/98016883/2572a85d-c323-4585-a627-feece0179f3b)
+![image](https://github.com/vikaslohar21/MAD_Practical-4_21012011158/assets/98016883/cdca2aaf-9bd5-4b29-9451-f0c31d0c87ca)
