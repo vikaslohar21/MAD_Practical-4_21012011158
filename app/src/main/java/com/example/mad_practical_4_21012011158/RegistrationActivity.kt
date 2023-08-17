@@ -20,7 +20,7 @@ class RegistrationActivity : AppCompatActivity() {
         }
 
         register.setOnClickListener() {
-            Intent(this@RegistrationActivity, RegistrationSuccessActivity::class.java).also {
+            Intent(this@RegistrationActivity, MainActivity::class.java).also {
                 startActivity(it)
             }
         }
